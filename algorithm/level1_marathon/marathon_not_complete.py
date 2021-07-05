@@ -69,7 +69,7 @@ key와 value를 이용한 방법으로, Counter 객체들끼리의 뺄셈도 가
 
 collections.Counter에 대해 알게 되었으며, zip에 대해서도 보다 자세히 알게 되었다.
 
-ex)
+ex) 컬렉션의 key, value를 이용
 print(collections.Counter(participant))
 >>Counter({'eden': 1, 'kiki': 1, 'vante': 1})
 
